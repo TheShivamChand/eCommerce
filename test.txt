@@ -1,4 +1,0 @@
-testing
-more testing
-\n How to add spaces?
-foo\nbar
